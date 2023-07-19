@@ -1,16 +1,22 @@
-### Hi there 👋
+Saludos 👋, mi nombre es José Martínez
 
-<!--
-**Jose2632/Jose2632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me describo como una persona proactiva y autodidacta, con habilidades analíticas y liderazgo, apasionado por la programación web y el desarrollo de soluciones tecnológicas, esto le sumas que soy amante del café ☕️.
 
-Here are some ideas to get you started:
+Soy desarrollador web con experiencia en el uso de diversos lenguajes y tecnologías como: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ Backend: PHP, Laravel, Livewire
+
+✔️ Frontend: Ajax, Jquery, Bootstrap, Tailwind, CSS3, Html5
+
+✔️ CMS: WordPress
+
+✔️ Database: Mysql, PostgreSQL
+
+Poseo una visión estratégica del negocio, siendo capaz de comprender los objetivos que una compañía busca alcanzar en cada proyecto.
+
+También me distingo por mi habilidad para colaborar en equipo de manera efectiva y mi capacidad para adaptarme con facilidad a diversas metodologías de trabajo.
+
+Tecnologías bajo aprendizaje actualmente: 
+
+🛠 Frontend: React
+🛠 Database: AWS
