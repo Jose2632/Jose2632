@@ -1,6 +1,6 @@
 Saludos 👋, mi nombre es José Martínez
 
-Me describo como una persona proactiva y autodidacta, con habilidades analíticas y liderazgo, apasionado por la programación web y el desarrollo de soluciones tecnológicas, esto le sumas que soy amante del café ☕️.
+Me describo como una persona proactiva y autodidacta, con habilidades analíticas y liderazgo, apasionado por la programación web y el desarrollo de soluciones tecnológicas, a esto le sumas que soy amante del café ☕️.
 
 Soy desarrollador web con experiencia en el uso de diversos lenguajes y tecnologías como: 
 
