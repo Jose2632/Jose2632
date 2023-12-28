@@ -19,4 +19,4 @@ También me distingo por mi habilidad para colaborar en equipo de manera efectiv
 Tecnologías bajo aprendizaje actualmente: 
 
 🛠 Frontend: React
-🛠 Database: AWS
+🛠 Backend: Inertia
