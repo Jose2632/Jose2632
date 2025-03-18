@@ -6,7 +6,7 @@ Soy ingeniero en informática y desarrollador web con experiencia en el uso de d
 
 ✔️ Backend: PHP, Laravel, Livewire
 
-✔️ Frontend: Alpine.js, Jquery, Bootstrap, Tailwind, CSS3, Html5
+✔️ Frontend: Alpine.js, React, Jquery, Bootstrap, Tailwind, CSS3, Html5
 
 ✔️ CMS: WordPress
 
