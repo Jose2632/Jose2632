@@ -15,8 +15,3 @@ Soy ingeniero en informática y desarrollador web con experiencia en el uso de d
 Poseo una visión estratégica del negocio, siendo capaz de comprender los objetivos que una compañía busca alcanzar en cada proyecto.
 
 También me distingo por mi habilidad para colaborar en equipo de manera efectiva y mi capacidad para adaptarme con facilidad a diversas metodologías de trabajo.
-
-Tecnologías bajo aprendizaje actualmente: 
-
-🛠 Frontend: React
-🛠 Backend: Inertia
