@@ -1,12 +1,14 @@
 Saludos 👋, mi nombre es José Martínez
 
-Me describo como una persona proactiva y autodidacta, con habilidades analíticas y liderazgo, apasionado por la programación web y el desarrollo de soluciones tecnológicas, a esto le sumas que soy amante del café ☕️.
+Ingeniero en Informática
 
-Soy ingeniero en informática y desarrollador web con experiencia en el uso de diversos lenguajes y tecnologías como: 
+Me describo como una persona proactiva y autodidacta, con habilidades analíticas y liderazgo, apasionado por la programación web y el desarrollo de soluciones tecnológicas.
+
+Desarrollador web con experiencia en el uso de diversos lenguajes y tecnologías como: 
 
 ✔️ Backend: PHP, Laravel, Livewire
 
-✔️ Frontend: Alpine.js, React, Jquery, Bootstrap, Tailwind, CSS3, Html5
+✔️ Frontend: Alpine js, React js, Jquery, Bootstrap, Tailwind, CSS3, Html5
 
 ✔️ CMS: WordPress
 
